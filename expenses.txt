@@ -1,0 +1,4 @@
+2026-02-09,travel,12300.0,yhijg
+2026-02-09,travel,1200.0,good
+2026-02-09,rent,123000000000000.0,rent is pending
+2026-02-09,rent,12000.0,rent is pending
